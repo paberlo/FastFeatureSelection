@@ -1,2 +1,10 @@
 language: java
 jdk: oraclejdk8
+
+# configure notifications (email, IRC, campfire etc)
+notifications:
+  email:
+    recipients:
+      - Pablo.Bermejo@uclm.es
+    on_success: always # default: change
+    on_failure: always # default: always

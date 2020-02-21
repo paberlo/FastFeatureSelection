@@ -4,7 +4,8 @@ They are implemented as part of the Java-based Weka API for machine learning.
 This package contains algorithms published in the following journals and papers:
 
 #### 1. IWSSembddedNB
-Pablo Bermejo, José A. Gámez, José M. Puerta. **Speeding up incremental wrapper feature subset selection with Naive Bayes classifier.**" Knowledge-Based Systems. Volume 55, pp. 140-147. 2014. https://doi.org/10.1016/j.knosys.2013.10.016
+**Speeding up incremental wrapper feature subset selection with Naive Bayes classifier.**
+P Bermejo, JA Gámez, JM Puerta. nowledge-Based Systems. Volume 55, pp. 140-147. 2014. https://doi.org/10.1016/j.knosys.2013.10.016
 
 #### 2. RerankingSearch
 **Fast wrapper feature subset selection in high-dimensional datasets by means of filter re-ranking.**

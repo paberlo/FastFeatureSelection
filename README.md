@@ -23,7 +23,7 @@ P Bermejo, JA Gámez, JM Puerta. International Journal of Pattern Recognition an
 P Bermejo, JA Gámez, JM Puerta. 2009 IEEE Symposium on Computational Intelligence and Data Mining, 367-374.
 
 #### 4. IGgaussian
-Improving the performance of Naive Bayes multinomial in e-mail foldering by introducing distribution-based balance of datasets
+**Improving the performance of Naive Bayes multinomial in e-mail foldering by introducing distribution-based balance of datasets.**
 P Bermejo, JA Gámez, JM Puerta
 Expert Systems with Applications 38 (3), 2072-2080. 2011.
 https://doi.org/10.1016/j.eswa.2010.07.146
